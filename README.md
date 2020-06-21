@@ -1,1 +1,2 @@
-# Calulator
+# Calculator
+My very own Simple Calculator using Javacript.You can use HTML and CSS to design the user interface .You can choose your own style whether you want to use tables or buttons to design your interface.Basic javascript is used to add functionality to your calculator. It is easier to create different functions to improve readbility and usability of your code. It even amkes easier to understand the code.
